@@ -1,0 +1,19 @@
+<emp_info>
+<EMP>
+<SL.NO.> 23 </SL.NO>
+<NAME> John Carter </NAME>
+<ADMISSION_DATE> 25/12/2015 </ADMISSION_DATE>
+</EMP>
+
+<EMP>
+<SL.NO.> 29 </SL.NO>
+<NAME> Bob Marshal </NAME>
+<ADMISSION_DATE> 13/01/1999 </ADMISSION_DATE>
+</EMP>
+
+<EMP>
+<SL.NO.> 35 </SL.NO>
+<NAME> Clark Kent </NAME>
+<ADMISSION_DATE>17/06/2005 </ADMISSION_DATE>
+</EMP>
+</emp_info>
