@@ -33,7 +33,6 @@
 "3","2","Test Comments from HR","4"
 "4","3","Test XX","4"
 "id","type","email","password","status"
-"1","Admin","00dip.kumar020@gmail.com","testPass1@","1"
 "2","Applicant","test1@gmail.com","testPass1@","1"
 "3","HR","test2@gmail.com"," testPass1@","1"
 "4","HR","test3@gmail.com","@1234testPass","1"
